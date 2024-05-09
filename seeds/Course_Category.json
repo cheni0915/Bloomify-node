@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "花藝基礎課程",
+    "path": "/assets/course/img-category-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "植栽相關課程",
+    "path": "/assets/course/img-category-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "節慶主題課程",
+    "path": "/assets/course/img-category-3.jpg"
+    
+  },
+  {
+    "id": 4,
+    "name": "進階商業課程",
+    "path": "/assets/course/img-category-4.jpg"
+  }
+]
